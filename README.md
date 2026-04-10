@@ -1,7 +1,7 @@
 Flutter Basic Calculator
 A clean and functional cross-platform mobile application built with Flutter. This project demonstrates basic state management, user input handling, and arithmetic logic in a mobile environment.
 
-<img width="1080" height="2166" alt="image" src="https://github.com/user-attachments/assets/e7e2c5b3-2e69-4d6a-8f7a-93fcc4af23d0" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/e7e2c5b3-2e69-4d6a-8f7a-93fcc4af23d0" />
 
 ✨ Features
 - Arithmetic Operations: Support for addition, subtraction, multiplication, and division.
